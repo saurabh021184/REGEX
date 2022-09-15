@@ -30,7 +30,10 @@ Notes on REGEX with its application in python and git-ci.yml etc.
    '?'  ZERO or ONE occurrences   -> "he.?o" <br />
    {}   Exactly the specified number of occurrences -> "he.{2}o" <br /> <br />
    
-   <b /> NOTE: you have used a DOT '.' in all the above examples because DOT REPRESENTS any characters
+   <b> NOTE: you have used a DOT '.' in all the above examples because DOT REPRESENTS any characters <b />
+   
+   
+6. "\d"	Returns a match where the string contains digits (numbers from 0-9)  
 
 ## References:
 - https://www.w3schools.com/python/python_regex.asp
